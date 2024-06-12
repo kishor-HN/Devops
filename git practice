@@ -1,1 +1,16 @@
 Trying git commonds and getting hands on exprience 
+
+git clone ( this cmd is used to copy all master code files to local machine, which are very much in need to start develop   code)
+
+git log ( this cmd is used to check when was the last commit done and by whom and with description)
+
+git tag ( this cmd is used as book mark or check point which help users to understand current status of their coding)
+
+git tag -a 'ver. no' -m "short comment" ( here -m flag is used to store shot comment along with tag name, for user refer)
+
+git branch ( will give list of branch present)
+
+git branch [branch name] ( to create new branch from current dir)
+
+git branch -d [branch name] (to delete branch of given name)
+
